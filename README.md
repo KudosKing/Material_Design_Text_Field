@@ -2,6 +2,6 @@
 
 This repository is on working on text field with android material design.
 
-Check the tutorial on below link
+Check the tutorial at below link
 
 http://www.funkoding.com/android-material-design-working-with-text-field-material-design/
